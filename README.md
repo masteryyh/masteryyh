@@ -8,6 +8,13 @@
 - Communist 🇨🇳
 - Friend of a cat :cat:
 
+## 📞 Contact Me
+
+- Email: [yyh991013@163.com](mailto:yyh991013@163.com)
+- Another email: [yyh991013@gmail.com](mailto:yyh991013@gmail.com)
+- LinkedIn: [masteryyh](https://www.linkedin.com/in/masteryyh)
+- WeChat: masteryyh
+
 ## 💻 Tech stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
