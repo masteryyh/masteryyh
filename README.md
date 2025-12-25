@@ -1,6 +1,6 @@
-# Hi there, I'm Mastery! 👋
+# Hi there, I'm Yanhong Yang (杨雁鸿)! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Backend/Fullstack Engineer** who loves building scalable systems and exploring cutting-edge technologies.
+Welcome to my GitHub profile [@masteryyh](https://github.com/masteryyh)! I'm a passionate **Backend/Fullstack Engineer** who loves building scalable systems and exploring cutting-edge technologies.
 
 ## 🚀 About Me
 
