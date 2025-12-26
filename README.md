@@ -7,6 +7,7 @@
 - Homelab enthusiast :computer:
 - Communist 🇨🇳
 - Friend of a cat :cat:
+- Former employee of @SUSE @rancher
 
 ## 📞 Contact Me
 
